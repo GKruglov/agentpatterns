@@ -1,7 +1,7 @@
 # 🚧 Site Under Construction
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/under_construction.jpg" alt="Under Construction" width="300">
+  <img src="https://dummyimage.com/500x250/fff/000&text=Site+Under+Construction" alt="Under Construction" width="500">
 </div>
 
 ## Coming Soon

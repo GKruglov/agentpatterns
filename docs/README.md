@@ -9,5 +9,5 @@ We're currently building an improved experience. Please check back later.
 ---
 
 <div align="center" style="margin-top: 1rem;">
-  <small>2025 AI Agent Design Patterns.</small>
+  <small>© 2025 AI Agent Design Patterns. Licensed under the Apache License, Version 2.0.</small>
 </div>
